@@ -18,32 +18,50 @@
 
 ###
 
-👋 Olá, prazer!
+<h1 align="center">Olá, eu sou o Marcel 👋</h1>
+<p align="center">🧑‍💻 Desenvolvedor em formação | 💡 Explorando novas ideias | 📍 Rio de Janeiro</p>
 
-Sou o Marcel, diretamente do Rio de Janeiro — desenvolvedor em formação, apaixonado por tecnologia e inovação.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Buscando+uma+oportunidade+como+Programador;Aprendendo+Python+e+desenvolvimento+web;Criando+projetos+pessoais+no+tempo+livre" alt="Typing SVG" />
+</p>
 
-🚀 Em busca de uma oportunidade como programador, onde eu possa aplicar e expandir meus conhecimentos técnicos.
+---
 
-📘 Atualmente estudando Python, com foco em desenvolvimento backend e automações.
+## 🙋‍♂️ Sobre mim
 
-🧪 No tempo livre, gosto de explorar novas ideias e criar projetos pessoais para aprimorar minhas habilidades.
+- 🎯 **Objetivo atual:** <span style="color:#00BFFF"><strong>Conquistar minha primeira oportunidade como programador</strong></span>.
+- 📚 **Estudando:** <span style="color:#FF8C00"><strong>Python</strong></span> com foco em backend e automações.
+- 🧪 **Projetos pessoais:** Criação de sites simples para treinar lógica, estrutura e responsividade.
+- 💡 **Motivação:** Aprender sempre, evoluir constantemente e transformar ideias em código.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+---
 
-###
+## 🛠️ Minhas Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📱 Conecte-se comigo
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+---
+
+📌 *“A melhor forma de aprender é colocando a mão no código.”*
+
+---
+
