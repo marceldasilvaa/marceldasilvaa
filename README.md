@@ -18,21 +18,15 @@
 
 ###
 
-<h1 align="center">Olá 👋</h1>
+👋 Olá, prazer!
 
-###
+Sou o Marcel, diretamente do Rio de Janeiro — desenvolvedor em formação, apaixonado por tecnologia e inovação.
 
-<h3 align="left">👩‍💻  Um pouco sobre mim:</h3>
+🚀 Em busca de uma oportunidade como programador, onde eu possa aplicar e expandir meus conhecimentos técnicos.
 
-###
+📘 Atualmente estudando Python, com foco em desenvolvimento backend e automações.
 
-<p align="left">Eu sou Marcel do Rio de Janeiro<br><br>- 🔭 Estou buscando um trabalho como programador.<br>- 📚 Estou aprendendo python no momento.<br>- ⚡ No meu tempo livre codei alguns sites rápidos como teste próprio.</p>
-
-###
-
-<h3 align="left">🛠 Linguagens e ferramentas:</h3>
-
-###
+🧪 No tempo livre, gosto de explorar novas ideias e criar projetos pessoais para aprimorar minhas habilidades.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
