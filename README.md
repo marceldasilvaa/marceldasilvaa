@@ -22,7 +22,7 @@
 <p align="center">🧑‍💻 Desenvolvedor em formação | 💡 Explorando novas ideias | 📍 Rio de Janeiro</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Buscando+uma+oportunidade+como+Programador;Aprendendo+Python+e+desenvolvimento+web;Criando+projetos+pessoais+no+tempo+livre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Buscando+uma+oportunidade+como+Programador;Aprendendo+Python+e+desenvolvimento+web;Criando+projetos+pessoais+no+tempo+livre" alt="Typing SVG" />
 </p>
 
 ---
